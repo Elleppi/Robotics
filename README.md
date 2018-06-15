@@ -3,7 +3,7 @@
 ## Right Edge Following Behaviour + Obstacle Avoidance
 
 Software implementation of PID and Fuzzy Logic Controller (FLC) of two of the most used behaviours in robotics: Right Edge Following (REF) and Obstacle Avoidance (OA). The PID controller is used only for the REF behaviour, while a Fuzzy Logic controller has been developed to perform the two behaviours independently or a combination between them.
-When executing the main file, a first screen will be showed asking the user to pick a behavior to run from:
+When executing the main file, a first screen will be showed asking the user to pick a behavior to run among:
 -	REF with PID;
 -	REF with FLC;
 -	OA with FLC;
